@@ -8,6 +8,4 @@ nav:
     - Sprint 0: ./sprints/sprint0.md
 
 theme:
-  name: readthedocs
-  include_homepage_in_sidebar: True
-  prev_next_buttons_location: top
+  name: material
