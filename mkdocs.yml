@@ -9,3 +9,5 @@ nav:
 
 theme:
   name: readthedocs
+  include_homepage_in_sidebar: True
+  prev_next_buttons_location: top
