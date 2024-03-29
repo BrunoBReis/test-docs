@@ -1,5 +1,5 @@
 site_name: Minha documentação
-site_url: https://github.com/BrunoBReis/test-docs
+site_url: http://github.com/BrunoBReis/test-docs
 
 nav:
   - Home: index.md
