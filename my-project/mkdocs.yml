@@ -1,0 +1,10 @@
+site_name: Minha documentação
+site_url: https://github.com/BrunoBReis/test-docs
+
+nav:
+  - Home: index.md
+  - Como contribuir: contribuir.md
+  - Sprint:
+      - Sprint0: sprints/sprint0.md
+
+theme: material
