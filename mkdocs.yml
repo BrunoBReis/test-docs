@@ -9,10 +9,7 @@ nav:
       - Sprint0: sprints/sprint0.md
 
 theme:
-  name: readthedocs
-  prev_next_buttons_location: top
-  navigation_depth: 4
-  locale: pt_BR
+  name: material
 
 # If want to use permalink, baselevel, etc.
 # markdown_extensions:
