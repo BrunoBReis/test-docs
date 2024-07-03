@@ -10,8 +10,3 @@ nav:
 
 theme:
   name: material
-
-# If want to use permalink, baselevel, etc.
-# markdown_extensions:
-#   - toc:
-#       permalink: "#"
